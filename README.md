@@ -8,17 +8,11 @@
 **Etherium wallet:** 0x870c96c49afed3202863d2c74a44a354566b1ac3 <br>
 **Litecoin wallet:** LNnSY7AwAnwi9zMbKYTc9ShVTrtG96Ya5D <br>
 **Dogecoin wallet:** DQJEuafzJf9oGD1BqAy5MFkSSXQzj9sUXs <br>
-**Bat wallet:** 0x870c96c49afed3202863d2c74a44a354566b1ac3 / ERC20 <br>
 **XRP wallet:** rHWcuuZoFvDS6gNbmHSdpb7u1hZzxvCoMt / Destination Tag 872068 <br>
 
 
 <br>
-
-Aciklamayi yaz
-
-# NOTICE
-
-This project is no longer maintained; use version 3.0.1 at [here](https://www.youtube.com/watch?v=ytlinki)
+A little code to prank your friends
 
 ### Requirements
 
@@ -30,34 +24,8 @@ This project is no longer maintained; use version 3.0.1 at [here](https://www.yo
 pip3 install -r requirements.txt
 ```
 
-### Help
-
-```
-C:\Users\User\Desktop\Instagram>python3 script_name.py 
-
-hep message
-
-```
 ### Usage
 
 ```
-python3 script_name.py
-```
-
-### Header 1
-
--   Header alti
-
-
-### Header 2
-
--   Header alti
-
-
-### Header 3
-
--   Header alti
-
-```
-Header alti
+python3 annoying.py
 ```
