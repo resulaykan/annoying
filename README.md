@@ -1,8 +1,6 @@
-# HHHHHH
+# Annoying
 [![Version](https://img.shields.io/badge/version-v1-blue.svg)]()
 [![Python](https://img.shields.io/badge/python-v3-blue.svg)]()
-[![Discord](https://img.shields.io/discord/532621311017484307.svg)](https://discord.gg/jvhJMeb)
-[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/Msheikh03)
 <br>
 **Bitcoin wallet:** 33Yj2ATBUodD18sXztWJzxizchCwSLSXW6 <br>
 **Etherium wallet:** 0x870c96c49afed3202863d2c74a44a354566b1ac3 <br>
