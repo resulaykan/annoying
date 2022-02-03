@@ -1,10 +1,8 @@
-import pyautogui, random, time, os
+import pyautogui, random
 pyautogui.FAILSAFE= False
-
-
 screen_size_x, screen_size_y = pyautogui.size()
 
-def mauseHaraket():
+def moveMouse():
     xx=0
     while True:
         xx+=1
@@ -16,28 +14,9 @@ def mauseHaraket():
             y = random.randint(0, screen_size_y)
             pyautogui.moveTo(x,y)
 
+value = pyautogui.prompt(text='The answer is up to you', title='"Can I control your computer?"' , default='No')
 
-
-
-
-pyautogui.confirm(text='', title='', buttons=['OK', 'Cancel'])
-
-deneme = pyautogui.prompt(text='Yaz yoksa virüs bilgisayarını sıfırlar', title='"Hakkımı helal ediyorum" yazmalısın!' , default='Etmiyorum')
-
-
-if deneme == "Hakkımı helal ediyorum":
-    pass
+if value == "Yes":
+    moveMouse()
 else:
-    mauseHaraket()
-
-
-
-
-
-
-
-
-
-
-
-
+    moveMouse()
